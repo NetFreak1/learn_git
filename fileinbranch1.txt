@@ -1,1 +1,2 @@
- i am the file inbranch 1
+ i am the file in master and origined from branch1
+
