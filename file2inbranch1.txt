@@ -1,1 +1,2 @@
-hello i am file 2 created in branch1 
+i am line1 in file2inbranch1 created in master
+i am line2 in file2inbranch2 created in master
